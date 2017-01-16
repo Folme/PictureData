@@ -1,6 +1,8 @@
 # Folme Online Corp.
 ## Picture material resources
 
+![Folme Logo](https://raw.githubusercontent.com/Folme/PictureData/master/Logo4-1.png)
+
 #### About us 
 > This is the Folme Online Corp. Cot image material database  
 
